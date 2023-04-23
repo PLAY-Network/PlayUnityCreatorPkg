@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RGNCreator</name>
+    </assembly>
+    <members>
+        <member name="M:RGN.Modules.Creator.CreatorModule.BecomeACreatorAsync(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="brandName"></param>
+            <returns>
+            FirebaseCreatorSignupResponseData.message = "Success" OR "Brand name already exists" OR "User is already enrolled in Creator Program" OR "Invalid BrandName";
+            </returns>
+        </member>
+    </members>
+</doc>
