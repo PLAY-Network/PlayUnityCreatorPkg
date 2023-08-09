@@ -6,7 +6,7 @@
     <members>
         <member name="M:RGN.Modules.Creator.CreatorModule.BecomeACreatorAsync(System.String)">
             <summary>
-            
+            Sends an asynchronous request to the backend to become a creator
             </summary>
             <param name="brandName"></param>
             <returns>
