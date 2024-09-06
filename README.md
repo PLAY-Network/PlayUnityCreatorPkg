@@ -1,2 +1,2 @@
 # RGN Creator
-Package version: 0.13.0-dev.587
+Package version: 0.13.0-dev.588
