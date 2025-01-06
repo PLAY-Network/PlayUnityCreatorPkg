@@ -1,5 +1,5 @@
 ﻿{
-  "name": "io.getready.rgn.creator",
+  "name": "io.play.unity.creator",
   "displayName": "PLAY SDK. Creator",
   "version": "0.16.0",
   "unity": "2020.3",
@@ -26,8 +26,8 @@
     "/ReadyGamesNetwork.meta"
   ],
   "dependencies": {
-    "io.getready.rgn.core": "0.16.0",
-    "io.getready.rgn.virtualitems": "0.16.0",
-    "io.getready.rgn.currency": "0.16.0"
+    "io.play.unity.core": "0.16.0",
+    "io.play.unity.virtualitems": "0.16.0",
+    "io.play.unity.currency": "0.16.0"
   }
 }

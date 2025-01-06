@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>RGNCreator</name>
+        <name>Creator</name>
     </assembly>
     <members>
         <member name="M:RGN.Modules.Creator.CreatorModule.BecomeACreatorAsync(System.String,System.Threading.CancellationToken)">
